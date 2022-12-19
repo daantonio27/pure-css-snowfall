@@ -1,0 +1,16 @@
+{
+  "name": "Pure-CSS-Snowfall-Development",
+  "version": "0.0.1",
+  "private": true,
+  "dependencies": {
+    "gulp": "^4.0.2",
+    "gulp-clean": "*",
+    "gulp-clean-css": "*",
+    "gulp-cli": "*",
+    "gulp-compass": "*",
+    "gulp-load-plugins": "*",
+    "gulp-open": "*",
+    "gulp-plumber": "*",
+    "gulp-webserver": "*"
+  }
+}
